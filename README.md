@@ -4,7 +4,7 @@
 
 **重点推荐：PCB1沉金、PCB2丝印（彩色丝印）。两款均按板厚 1.2 mm、白色阻焊下单。**
 
-[视频演示：哔哩哔哩 BV15iJ86fE7V](https://www.bilibili.com/video/BV15iJ86fE7V/) · [嘉立创下单教程](docs/ORDERING.md) · [四块板与工程说明](docs/HARDWARE.md) · [NFC 焊接与使用](docs/NFC.md)
+[展示视频(p1)和下单流程演示(p2)：哔哩哔哩 BV15iJ86fE7V](https://www.bilibili.com/video/BV15iJ86fE7V/) · [嘉立创下单教程](docs/ORDERING.md) · [四块板与工程说明](docs/HARDWARE.md) · [NFC 焊接与使用](docs/NFC.md)
 
 ![PCB1 沉金与 PCB2 彩色丝印成品](preview/pcb1-pcb2-finished.png)
 
