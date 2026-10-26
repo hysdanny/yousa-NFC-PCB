@@ -1,0 +1,139 @@
+{
+  "source": "ProPrj_泠鸢yousa-NFC电路板-羁绊环游线_2026-10-26.epro2",
+  "editor_version": "4.1.78",
+  "boards": [
+    {
+      "name": "PCB1丝印",
+      "uuid": "fb813b571c24c60f",
+      "outline_mm": [
+        85.2678,
+        53.7331
+      ],
+      "record_counts": {
+        "DOCHEAD": 1,
+        "CANVAS": 1,
+        "LAYER": 90,
+        "ACTIVE_LAYER": 1,
+        "NET": 1,
+        "RULE_TEMPLATE": 1,
+        "PRIMITIVE": 48,
+        "SILK_OPTS": 2,
+        "PREFERENCE": 1,
+        "LAYER_PHYS": 9,
+        "RULE": 16,
+        "RULE_SELECTOR": 1,
+        "PANELIZE": 1,
+        "POLY": 2,
+        "ELE_PLACEHOLDER": 7,
+        "COMPONENT": 1,
+        "PAD_NET": 2,
+        "ATTR": 3,
+        "META": 1,
+        "IMAGE": 5,
+        "FILL": 1
+      },
+      "single_board_file": "hardware/single-board/PCB1丝印.epro2",
+      "validation": "archive and raw PCB record equality checked; EDA import and fabrication not verified"
+    },
+    {
+      "name": "PCB2丝印",
+      "uuid": "6ba4e5709e5a63c8",
+      "outline_mm": [
+        84.328,
+        53.594
+      ],
+      "record_counts": {
+        "DOCHEAD": 1,
+        "CANVAS": 1,
+        "LAYER": 90,
+        "ACTIVE_LAYER": 1,
+        "NET": 2,
+        "RULE_TEMPLATE": 1,
+        "PRIMITIVE": 54,
+        "SILK_OPTS": 2,
+        "PREFERENCE": 1,
+        "LAYER_PHYS": 9,
+        "RULE": 16,
+        "RULE_SELECTOR": 2,
+        "PANELIZE": 1,
+        "ELE_PLACEHOLDER": 7,
+        "PAD": 1,
+        "POLY": 3,
+        "COMPONENT": 1,
+        "PAD_NET": 2,
+        "ATTR": 3,
+        "META": 1,
+        "IMAGE": 4,
+        "OBJ": 1
+      },
+      "single_board_file": "hardware/single-board/PCB2丝印.epro2",
+      "validation": "archive and raw PCB record equality checked; EDA import and fabrication not verified"
+    },
+    {
+      "name": "PCB2沉金",
+      "uuid": "1356361d240ddfce",
+      "outline_mm": [
+        85.047,
+        53.594
+      ],
+      "record_counts": {
+        "DOCHEAD": 1,
+        "CANVAS": 1,
+        "LAYER": 90,
+        "ACTIVE_LAYER": 1,
+        "NET": 2,
+        "RULE_TEMPLATE": 1,
+        "PRIMITIVE": 53,
+        "SILK_OPTS": 2,
+        "PREFERENCE": 1,
+        "LAYER_PHYS": 9,
+        "RULE": 16,
+        "RULE_SELECTOR": 2,
+        "PANELIZE": 1,
+        "ELE_PLACEHOLDER": 6,
+        "PAD": 1,
+        "POLY": 3,
+        "COMPONENT": 1,
+        "PAD_NET": 2,
+        "ATTR": 3,
+        "META": 1,
+        "IMAGE": 6
+      },
+      "single_board_file": "hardware/single-board/PCB2沉金.epro2",
+      "validation": "archive and raw PCB record equality checked; EDA import and fabrication not verified"
+    },
+    {
+      "name": "PCB1沉金",
+      "uuid": "f312c2ffc4da1f8c",
+      "outline_mm": [
+        85.2678,
+        53.7331
+      ],
+      "record_counts": {
+        "DOCHEAD": 1,
+        "CANVAS": 1,
+        "LAYER": 90,
+        "ACTIVE_LAYER": 1,
+        "NET": 2,
+        "RULE_TEMPLATE": 1,
+        "PRIMITIVE": 53,
+        "SILK_OPTS": 2,
+        "PREFERENCE": 1,
+        "LAYER_PHYS": 9,
+        "RULE": 16,
+        "RULE_SELECTOR": 2,
+        "PANELIZE": 1,
+        "ELE_PLACEHOLDER": 7,
+        "PAD": 1,
+        "POLY": 3,
+        "COMPONENT": 1,
+        "PAD_NET": 2,
+        "ATTR": 3,
+        "META": 1,
+        "IMAGE": 10
+      },
+      "single_board_file": "hardware/single-board/PCB1沉金.epro2",
+      "validation": "archive and raw PCB record equality checked; EDA import and fabrication not verified"
+    }
+  ]
+}
